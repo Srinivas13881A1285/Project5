@@ -1,0 +1,10 @@
+1).Which company originally invented java?,a)Microsoft,b)Sun Micro System,c)Google,d)Facebook,2
+2).Which is valid keyword in java?,a)Interface,b)String,c)Float,d)Array,1
+3).which is the valid declaration within Interface definition,a)Public double method(),Public final double method(),c)Static void method (double d1),d)Protected void method (double d1),1
+4).Which one is a valid declaration of boolean?,a)Boolean b1=0,b)Boolean b2=false,c)Boolean b3=false,d)Boolean b4=np,3
+5).Literal can be of which of these data type?,a)integer,b)float,c)boolean,d)all of the above,4
+6).Which of these can be used for a variable name in java?,a) identifier,b) keyword,c)identifier and keyword,d) none of the above,4
+7).Which is the reserved word in the programming language?,a)Method,b)Native,c)Subclasses,d)Reference,2
+8).Which is a valid keyword?,a)Interface,b)String,c)Float,d)Double,1
+9).You want subclasses in any package to access to member a super class Which is the most restrictive access that accomplishes the objective?,a)Public ,b)Private,c)Protected,d)Transient,3
+10).Which of the following class level variable declarations will not complete?,a)Protected int a;,b)Transient int b=3;,c)Private synchronizes int e,d)Volatile int d,3
